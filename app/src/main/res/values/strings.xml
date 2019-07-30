@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">RP Websites</string>
+    <string-array name="Category">
+        <item>FirmanCloud</item>
+        <item>PSXHAX</item>
+        <item>HardwareZone</item>
+        <item>Carousell</item>
+        <item>Twitter</item>
+        <item>GitHub</item>
+    </string-array>
+
+    <string-array name="FirmanCoud">
+        <item>Homepage</item>
+    </string-array>
+
+    <string-array name="PSXHAX">
+        <item>Homepage</item>
+        <item>PS4 Jailbreak</item>
+    </string-array>
+
+    <string-array name="HardwareZone">
+        <item>Homepage</item>
+        <item>Internet Bandwidth</item>
+        <item>Tech News</item>
+    </string-array>
+
+    <string-array name="Carousell">
+        <item>Homepage</item>
+        <item>Electronic</item>
+    </string-array>
+
+    <string-array name="Twitter">
+        <item>Homepage</item>
+    </string-array>
+
+    <string-array name="GitHub">
+        <item>Homepage</item>
+        <item>My Profile</item>
+    </string-array>
+
+    <string name="firmancloud_url">https://firmancloud.tk</string>
+    <string name="pxh_url">https://psxhax.com</string>
+    <string name="pxh_ps4_jailbreak_url">https://www.psxhax.com/articles/categories/ps4-jailbreaking.7/</string>
+    <string name="hwz_url">https://hardwarezone.com.sg</string>
+    <string name="hwz_internet_bandwidth_url">https://forums.hardwarezone.com.sg/internet-bandwidth-networking-clinic-4/</string>
+    <string name="hwz_tech_news_url">https://www.hardwarezone.com.sg/tech-news/list</string>
+    <string name="carousell_url">https://sg.carousell.com</string>
+    <string name="carousell_electronic_url">https://sg.carousell.com/categories/electronics-7/</string>
+    <string name="twitter_url">https://www.twitter.com</string>
+    <string name="github_url">https://www.github.com</string>
+    <string name="github_my_profile_url">https://www.github.com/firmanjml</string>
+</resources>
